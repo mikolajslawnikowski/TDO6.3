@@ -1,0 +1,13 @@
+{
+  "name": "my-express-app",
+  "version": "1.0.0",
+  "description": "Aplikacja Express.js z bazą danych PostgreSQL",
+  "main": "app.js",
+  "scripts": {
+    "start": "node app.js"
+  },
+  "dependencies": {
+    "express": "^4.17.1",
+    "pg": "^8.6.0"
+  }
+}
